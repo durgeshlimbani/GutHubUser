@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GutHubUser</string>
+    <string name="menu_search">Search</string>
+    <string name="blog">Blog :</string>
+    <string name="notes">Notes</string>
+    <string name="name">name :</string>
+    <string name="company">Company :</string>
+    <string name="email">Email :</string>
+    <string name="save">Save</string>
+    <string name="following_0">Following : 0</string>
+    <string name="followers_0">Followers : 0</string>
+</resources>
